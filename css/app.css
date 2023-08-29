@@ -47,8 +47,7 @@ body {
     padding: 8px;
     border-radius: 5px;
     border-color: #47adf1;
-    font-size: 20px;
-
+    font-size: 15px;
 }
 
 #hidden-button {
@@ -57,7 +56,7 @@ body {
     border-color: lightgrey;
     padding: 8px;
     border-radius: 5px;
-    font-size: 20px;
+    font-size: 15px;
 }
 /*end main buttons*/
 /*start list*/
@@ -69,19 +68,27 @@ ul {
 
 li {
     font-size: 18px;
-    margin-bottom: 8px;
+    margin-bottom: 12px;
 }
 
 .positive {
     color: #78c9b6;
     background-color: white;
+    width: 25px;
+    height: 25px;
     border-radius: 50%;
-    border-color: 1px solid #78c9b6;
-    display: inline-block;
+    border: 1px solid;
+    
+    
 }
 
 .negative {
     color: #ec655f;
+    background-color: white;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 1px solid;
 }
 .radius {
     background-color: red;
@@ -93,7 +100,7 @@ li {
 
 .main-list {
     background-color: white;
-    padding: 30px;
+    padding: 50px;
 }
 
 /*star 1 part*/
