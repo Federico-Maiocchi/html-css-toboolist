@@ -27,7 +27,7 @@ img {
 }
 
 body {
-    background-color: brown;
+    background-color: #f6f8f9;
 }
 /*start main buttons*/
 .bk-blue {
@@ -40,7 +40,7 @@ body {
     background-color: white;
     padding: 10px;
     border-radius: 5px 5px 0 0;
-    border-bottom:2px solid lightgrey;
+    border-bottom:2px solid #f6f8f9;
 }
 
 .button {
@@ -63,40 +63,38 @@ body {
 ul {
     list-style: none;
     font-size: 22px;
-    
+    margin-bottom: 15px;
 }
 
 li {
     font-size: 18px;
-    margin-bottom: 12px;
+    margin-bottom: 15px;
+}
+
+.signs {
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 1px solid;
 }
 
 .positive {
     color: #78c9b6;
     background-color: white;
-    width: 25px;
-    height: 25px;
-    border-radius: 50%;
-    border: 1px solid;
-    
-    
 }
 
 .negative {
     color: #ec655f;
     background-color: white;
-    width: 25px;
-    height: 25px;
-    border-radius: 50%;
-    border: 1px solid;
 }
-.radius {
-    background-color: red;
+
+.cells {
     border-radius: 25px;
     padding: 6px;
     font-size: small;
     color: white;
 }
+
 
 .main-list {
     background-color: white;
