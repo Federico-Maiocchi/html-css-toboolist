@@ -29,12 +29,32 @@ img {
 body {
     background-color: #f6f8f9;
 }
-/*start main buttons*/
-.bk-blue {
+
+/*color cells*/
+.bg-blue {
     background-color: #47adf1;
     color: white;
-    
 }
+
+.bg-purple {
+    background-color: #9c72e4 ;
+}
+
+.bg-green {
+    background-color: #64c0a9;
+}
+.bg-brown {
+    background-color: #f29e33;
+}
+
+.bg-pink {
+    background-color: #d863a1;
+}
+
+.bg-lime {
+    background-color: #b0c926;
+}
+/*start main buttons*/
 
 .main-buttons {
     background-color: white;
