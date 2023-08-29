@@ -17,13 +17,45 @@ img {
 .main-header {
     background-color: white;
     font-size: 50px;
+    font-family: fantasy;
+    margin-bottom: 100px;
 }
 /*end logo and title*/
+.container {
+    max-width: 900px;
+    margin:0 auto;
+}
+
 body {
     background-color: brown;
 }
 
-.container {
-    max-width: 980px;
-    margin:0 auto;
+.bk-blue {
+    background-color: #47adf1;
+    color: white;
+    
 }
+
+.main-buttons {
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px 5px 0 0;
+    border-bottom:2px solid lightgrey;
+}
+
+.button {
+    padding: 7px;
+    border-radius: 5px;
+    border-color: #47adf1;
+
+}
+
+#hidden-button {
+    background-color: white;
+    color: lightgrey;
+    border-color: lightgrey;
+    padding: 7px;
+    border-radius: 5px;
+}
+
+
