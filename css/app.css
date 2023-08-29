@@ -1,0 +1,29 @@
+/*reset margini e padding*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*start logo and title*/
+img {
+    max-width: 100%;
+    margin: 10px 0 10px 25px;
+}
+
+.logo {
+    vertical-align: middle;
+}
+
+.main-header {
+    background-color: white;
+    font-size: 50px;
+}
+/*end logo and title*/
+body {
+    background-color: brown;
+}
+
+.container {
+    max-width: 980px;
+    margin:0 auto;
+}
