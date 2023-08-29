@@ -69,13 +69,14 @@ ul {
 
 li {
     font-size: 18px;
+    margin-bottom: 8px;
 }
 
 .positive {
     color: #78c9b6;
     background-color: white;
     border-radius: 50%;
-    border-color: #78c9b6;
+    border-color: 1px solid #78c9b6;
     display: inline-block;
 }
 
@@ -86,6 +87,7 @@ li {
     background-color: red;
     border-radius: 25px;
     padding: 6px;
+    font-size: small;
     color: white;
 }
 
