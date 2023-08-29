@@ -18,7 +18,7 @@ img {
     background-color: white;
     font-size: 50px;
     font-family: fantasy;
-    margin-bottom: 100px;
+    margin-bottom: 65px;
 }
 /*end logo and title*/
 .container {
@@ -29,7 +29,7 @@ img {
 body {
     background-color: brown;
 }
-
+/*start main buttons*/
 .bk-blue {
     background-color: #47adf1;
     color: white;
@@ -44,9 +44,10 @@ body {
 }
 
 .button {
-    padding: 7px;
+    padding: 8px;
     border-radius: 5px;
     border-color: #47adf1;
+    font-size: 20px;
 
 }
 
@@ -54,8 +55,46 @@ body {
     background-color: white;
     color: lightgrey;
     border-color: lightgrey;
-    padding: 7px;
+    padding: 8px;
     border-radius: 5px;
+    font-size: 20px;
 }
+/*end main buttons*/
+/*start list*/
+ul {
+    list-style: none;
+    font-size: 22px;
+    
+}
+
+li {
+    font-size: 18px;
+}
+
+.positive {
+    color: #78c9b6;
+    background-color: white;
+    border-radius: 50%;
+    border-color: #78c9b6;
+    display: inline-block;
+}
+
+.negative {
+    color: #ec655f;
+}
+.radius {
+    background-color: red;
+    border-radius: 25px;
+    padding: 6px;
+    color: white;
+}
+
+.main-list {
+    background-color: white;
+    padding: 30px;
+}
+
+/*star 1 part*/
+
 
 
