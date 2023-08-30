@@ -94,6 +94,10 @@ li {
     margin-bottom: 15px;
     font-weight: 400;
 }
+.title {
+    font-size: 22px;
+    font-weight: 800;
+}
 /* signs signs and attributes*/
 .signs {
     width: 15px;
@@ -123,6 +127,7 @@ li {
     background-color: white;
     padding: 50px;
     margin-bottom: 50px;
+    border-radius: 0 0 5px 5px;
 }
 /*end list*/
 
